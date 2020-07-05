@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android and Flutter
-- 🌱 I’m currently learning Full Stack 
-- 👯 I’m looking to collaborate on any kind of open-sourced project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about android.
-- 📫 How to reach me: abhishek.kumar.7679@gmail.com
+** - 🤔 I’m looking for help with ...
 ** - 😄 Pronouns: ...
 ** - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Android and Flutter.
+- 🌱 I’m currently learning Full Stack Web development.
+- 👯 I’m looking to collaborate on any kind of open-sourced project.
+- 💬 Ask me about android.
+- 📫 How to reach me: abhishek.kumar.7679@gmail.com
