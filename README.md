@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Web development.
 - 👯 I’m looking to collaborate on any kind of open-sourced project.
 - 💬 Ask me about android.
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: abhishek.kumar.7679@gmail.com
