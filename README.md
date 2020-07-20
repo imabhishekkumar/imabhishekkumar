@@ -2,12 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imabhishekkumar.imabhishekkumar)
 
-Here are some ideas to get you started:
-
-** - 🤔 I’m looking for help with ...
-** - 😄 Pronouns: ...
-** - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on Android and Flutter.
 - 🌱 I’m currently learning Full Stack Web development.
 - 👯 I’m looking to collaborate on any kind of open-sourced project.
