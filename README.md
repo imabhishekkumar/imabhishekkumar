@@ -1,7 +1,6 @@
 ### Hi there 👋, I 'm [Abhishek Kumar!](http://www.abhishekkumar.me)
 
-<!--
-**imabhishekkumar/imabhishekkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=imabhishekkumar.imabhishekkumar)
 
 Here are some ideas to get you started:
 
@@ -18,5 +17,6 @@ Here are some ideas to get you started:
 
 [![Twitter: AbhishekKumar](https://img.shields.io/twitter/follow/_abhishekkumarr?style=social)](https://twitter.com/_abhishekkumarr)
 [![Linkedin: AbhishekKumar](https://img.shields.io/badge/-abhishekkumar01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekkumar01/)](https://www.linkedin.com/in/abhishekkumar01/)
-[![GitHub AbhishekKumar](https://img.shields.io/github/followers/imabhishekkumar?label=follow&style=social)](https://github.com/imabhishekkumar)  <br/>
+[![GitHub AbhishekKumar](https://img.shields.io/github/followers/imabhishekkumar?label=follow&style=social)](https://github.com/imabhishekkumar)
+[![Medium Badge](http://img.shields.io/badge/-@imabhishekkumar-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@imabhishekkumar)](https://medium.com/@imabhishekkumar)<br/>
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=imabhishekkumar&show_icons=true&hide_border=true)
