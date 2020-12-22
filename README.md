@@ -1,4 +1,4 @@
-### Hi there 👋, I 'm [Abhishek Kumar!](http://www.abhishekkumar.me)
+### Hi there 👋, I 'm [Abhishek Kumar!](https://www.linkedin.com/in/abhishekkumar01/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imabhishekkumar.imabhishekkumar)
 
