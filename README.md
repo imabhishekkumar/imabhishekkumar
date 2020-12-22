@@ -3,9 +3,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imabhishekkumar.imabhishekkumar)
 
 - 🔭 I’m currently working on Android and Flutter.
-- 🌱 I’m currently learning Full Stack Web development.
+- 🌱 I’m currently learning Full Stack Web development and Cloud.
 - 👯 I’m looking to collaborate on any kind of open-sourced project.
 - 💬 Ask me about android.
+- ⚡ Fun fact : I love playing FPS games 🎮.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: abhishek.kumar.7679@gmail.com
 
